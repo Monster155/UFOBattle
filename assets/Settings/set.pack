@@ -1,0 +1,47 @@
+
+set.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+delete
+  rotate: false
+  xy: 1, 1
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+musicOff
+  rotate: false
+  xy: 52, 1
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+musicOn
+  rotate: false
+  xy: 103, 1
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+rename
+  rotate: false
+  xy: 154, 1
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+soundOff
+  rotate: false
+  xy: 205, 1
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+soundOn
+  rotate: false
+  xy: 256, 1
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
